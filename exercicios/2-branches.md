@@ -10,4 +10,4 @@ Branchs são um conceito fundamental do git, vamos praticar a criação, navega�
 
 `git checkout -b nome_da_branch` é um atalho para criar e fazer o checkout da branch
 
-Erick S Batista Branch nova teste
+Erick S Batista Branch nova teste sem msg
